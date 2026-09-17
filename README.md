@@ -1,4 +1,4 @@
-# Blog Portfolio Infrastructure
+# Website Infrastructure
 
 This repository contains the Infrastructure as Code (IaC) for the blog portfolio application using Terraform and AWS services. The infrastructure follows AWS Well-Architected Framework principles with a focus on cost optimization and security.
 
